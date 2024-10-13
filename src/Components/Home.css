@@ -1,0 +1,10 @@
+.home-container{
+	position: absolute;
+    /* position: relative; */
+    width: calc(100% - 250px);
+    left: 200px;
+    width: auto;
+}
+.container{
+	margin-top: 80px;
+}
